@@ -1,0 +1,24 @@
+{% if collection.handle == 'COLLECTION TAG' %}
+<div style="width: 100%; max-width:600px; margin:auto;">
+	<p><strong>Shop by Size</strong></p>
+		<ul style="list-style-type: circle; list-style-position: inside; column-count: 2; column-gap: 1em;">
+			<li><a href="https://YOURLINK+COLLECTION/?sort_by=best-selling&filter.v.price.gte=&filter.v.price.lte=&filter.v.m.variant.shoe_size=Men%27s+7">Men's 7</a></li>
+			<li><a href="https://YOURLINK+COLLECTION/?sort_by=best-selling&filter.v.price.gte=&filter.v.price.lte=&filter.v.m.variant.shoe_size=Men%27s+8">Men's 8</a></li>
+			<li><a href="https://YOURLINK+COLLECTION/?sort_by=best-selling&filter.v.price.gte=&filter.v.price.lte=&filter.v.m.variant.shoe_size=Men%27s+9">Men's 9</a></li>
+			<li><a href="https://YOURLINK+COLLECTION/?sort_by=best-selling&filter.v.price.gte=&filter.v.price.lte=&filter.v.m.variant.shoe_size=Men%27s+10">Men's 10</a></li>
+			<li><a href="https://YOURLINK+COLLECTION/?sort_by=best-selling&filter.v.price.gte=&filter.v.price.lte=&filter.v.m.variant.shoe_size=Men%27s+11">Men's 11</a></li>
+			<li><a href="https://YOURLINK+COLLECTION/?sort_by=best-selling&filter.v.price.gte=&filter.v.price.lte=&filter.v.m.variant.shoe_size=Men%27s+12">Men's 12</a></li>
+			<li><a href="https://YOURLINK+COLLECTION/?sort_by=best-selling&filter.v.price.gte=&filter.v.price.lte=&filter.v.m.variant.shoe_size=Men%27s+13">Men's 13</a></li>
+			<li><a href="https://YOURLINK+COLLECTION/?sort_by=best-selling&filter.v.price.gte=&filter.v.price.lte=&filter.v.m.variant.shoe_size=Men%27s+14">Men's 14</a></li>
+			<li><a href="https://YOURLINK+COLLECTION/?sort_by=best-selling&filter.v.price.gte=&filter.v.price.lte=&filter.v.m.variant.shoe_size=Men%27s+15%2B">Men's 15</a></li>
+			<li><a href="https://YOURLINK+COLLECTION/?sort_by=best-selling&filter.v.price.gte=&filter.v.price.lte=&filter.v.m.variant.shoe_size=Women%27s+5">Women's 5</a></li>
+			<li><a href="https://YOURLINK+COLLECTION/?sort_by=best-selling&filter.v.price.gte=&filter.v.price.lte=&filter.v.m.variant.shoe_size=Women%27s+6">Women's 6</a></li>
+			<li><a href="https://YOURLINK+COLLECTION/?sort_by=best-selling&filter.v.price.gte=&filter.v.price.lte=&filter.v.m.variant.shoe_size=Women%27s+7">Women's 7</a></li>
+			<li><a href="https://YOURLINK+COLLECTION/?sort_by=best-selling&filter.v.price.gte=&filter.v.price.lte=&filter.v.m.variant.shoe_size=Women%27s+8">Women's 8</a></li>
+			<li><a href="https://YOURLINK+COLLECTION/?sort_by=best-selling&filter.v.price.gte=&filter.v.price.lte=&filter.v.m.variant.shoe_size=Women%27s+9">Women's 9</a></li>
+			<li><a href="https://YOURLINK+COLLECTION/?sort_by=best-selling&filter.v.price.gte=&filter.v.price.lte=&filter.v.m.variant.shoe_size=Women%27s+10">Women's 10</a></li>
+			<li><a href="https://YOURLINK+COLLECTION/?sort_by=best-selling&filter.v.price.gte=&filter.v.price.lte=&filter.v.m.variant.shoe_size=Women%27s+11">Women's 11</a></li>
+			<li><a href="https://YOURLINK+COLLECTION/?sort_by=best-selling&filter.v.price.gte=&filter.v.price.lte=&filter.v.m.variant.shoe_size=Women%27s+12%2B">Women's 12+</a></li>
+		</ul>
+	</div>
+{% endif %}
